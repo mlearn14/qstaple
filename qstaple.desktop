@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Staple Deployment Packet
+Comment=Combine deployment PDFs into a single packet
+Exec=/home/matt/tools/staple_pdfs/staple_pdfs
+Terminal=true
+Type=Application
+Categories=Utility;

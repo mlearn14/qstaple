@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['py/qstaple.py'],
+    ['py\\qstaple.py'],
     pathex=[],
     binaries=[],
     datas=[],

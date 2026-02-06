@@ -2,7 +2,7 @@
 Simple executable to merge all .pdf files in a given directory. Files are merged in alphabetical order.
 
 ## How to run
-Download the release [HERE](linksoon).
+Download the release [here](https://github.com/mlearn14/qstaple/releases).
 
 ### Windows
 Run windows/qstaple.exe

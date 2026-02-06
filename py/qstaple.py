@@ -15,7 +15,6 @@ def main(dir):
         sys.exit(1)
 
     pdfs = sorted(dir.glob("*.pdf"))
-    print(pdfs)
 
     if not pdfs:
         print("No PDF files found.")
